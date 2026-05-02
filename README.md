@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-👋 Hi, I’m Himanshu , a Computer Science Engineering student passionate about building impactful tech solutions:<br>💻 I’m currently working on AI & Machine Learning| Python Developer | Building data-driven solutions and intelligent systems.<br>📚 I’m currently learning FastAPI and exploring Generative AI while strengthening my skills in Machine Learning.<br>📖 Fun fact:I enjoy exploring new technologies and experimenting with AI tools in my free time and I watching movies and playing online games in my free time.<br> - 📫 How to reach me: hs7891824@gmail.com
+👋 Hi, I’m Himanshu , a Computer Science Engineering student passionate about building impactful tech solutions:<br>💻 I’m currently working on AI & Machine Learning| Python Developer | Building data-driven solutions and intelligent systems.<br>📚 I’m currently learning FastAPI and exploring Generative AI while strengthening my skills in Machine Learning.<br>📖 Fun fact:I enjoy exploring new technologies and experimenting with AI tools in my free time and I watching movies and playing online games in my free time.<br>📫 How to reach me: hs7891824@gmail.com
 
 
 ## 🌐 Socials:
